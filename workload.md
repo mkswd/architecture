@@ -60,7 +60,7 @@ As an architect, we need to understand a company's compliance obligation and ens
     - Laws (GDPR, HIPAA, WCAG)
 - Identify identity and access management (IAM) requirements
 - Identify service-oriented architecture (SOA) requirements
-    - How services are discovered?
+- How services are discovered?
     - Which design patterns to follow?
         - Event-drive?
         - Message-drive?
@@ -70,12 +70,13 @@ As an architect, we need to understand a company's compliance obligation and ens
 
 ### 1.2 Accessibility
 
-- Web Content Accessibility Guidelines (WCAG)
-- Is it a law in our country?
+- Web Content Accessibility Guidelines (WCAG) to be applied?
+- Is it required by law?
+- Any other guideline to be used?
 
 ### 1.3 Availabitity
 
-- SLA dependency mapping
+- To do the SLA dependency mapping
 - Identify single points of failure
 
 ### 1.4 Capacity and Scalability
