@@ -6,7 +6,7 @@ This is a technology guideline that helped me through the Azure Solution Archite
 It's just a topic-based document with the purpose to trigger the knowledge and help me to remember the key concepts.
 
 1. [Determine workload requirements](workload.md)
-2. Design for identity and security
+2. [Design for identity and security](identity.md)
 3. Design a data platform solution
 4. Design a business continuity strategy
 5. Design for deployment, migration, and integration
