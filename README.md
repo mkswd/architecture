@@ -7,4 +7,5 @@ There are so many providers out there, but we will focus on the role of architec
 ## Topics
 
 - [Designing a cloud solution](design.md)
+- [Template for a Solution Architecture Design Document](solutiontemplate.md)
 
