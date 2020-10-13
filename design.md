@@ -7,7 +7,7 @@ It's just a topic-based document with the purpose to trigger the knowledge and h
 
 1. [Determine workload requirements](workload.md)
 2. [Design for identity and security](identity.md)
-3. Design a data platform solution
+3. [Design a data platform solution](data.md)
 4. Design a business continuity strategy
 5. Design for deployment, migration, and integration
 6. Design an infrastructure strategy
